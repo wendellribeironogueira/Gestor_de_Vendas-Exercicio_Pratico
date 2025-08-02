@@ -310,11 +310,9 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ---
 
-## 👥 Autores
+## 👥 Autor
 
-- **Desenvolvedor Original**: [Seu Nome]
-- **Refatoração**: [Seu Nome]
-- **Contribuições**: [Lista de contribuidores]
+- **Desenvolvido por Wendell Ribeiro Nogueira
 
 ---
 
@@ -328,6 +326,6 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 <div align="center">
 
-**🎉 Obrigado por usar o Sistema de Gestão de Vendas Refatorado!**
+**🎉 Obrigado por usar o Sistema de Gestão de Vendas!**
 
 </div> 
