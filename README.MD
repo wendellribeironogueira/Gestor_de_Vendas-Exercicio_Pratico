@@ -310,24 +310,14 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ---
 
-## 👥 Autores
+## 👨‍💻 Autor
 
-- **Desenvolvedor Original**: [Seu Nome]
-- **Refatoração**: [Seu Nome]
-- **Contribuições**: [Lista de contribuidores]
-
----
-
-## 📞 Suporte
-
-- **Issues**: Use o sistema de issues do GitHub
-- **Documentação**: Consulte este README
-- **Logs**: Verifique arquivos em `logs/`
+- Desenvolvido por [**Wendell Ribeiro Nogueira**](https://www.linkedin.com/in/wendell-ribeiro-nogueira-2a285723/) 🧠💻]
 
 ---
 
 <div align="center">
 
-**🎉 Obrigado por usar o Sistema de Gestão de Vendas Refatorado!**
+**🎉 Obrigado por usar o Sistema de Gestão de Vendas!**
 
 </div> 
